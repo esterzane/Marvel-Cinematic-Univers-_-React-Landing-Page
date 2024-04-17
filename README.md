@@ -6,6 +6,6 @@ https://github.com/esterzane/Marvel-Cinematic-Univers-_-React-Landing-Page/asset
 <p> 
 - content creation
 - feature integration
-- photo development using AI 
+- photo creation using AI 
 </p>
 
